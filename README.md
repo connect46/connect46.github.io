@@ -1,2 +1,3 @@
 # Blog
-Powered by [Ghost](http://ghost.org) and [Buster](https://github.com/axitkhurana/buster/).
+
+This blog is about thoughts, stories and ideas on healthcare, supply chain management and technology. 
